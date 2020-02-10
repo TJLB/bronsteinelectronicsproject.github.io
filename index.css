@@ -70,7 +70,7 @@ a:hover {
 .bl-main > section:nth-child(2) {
 	top: 0;
 	left: 20%;
-	background: #FA987D;
+	background: #147cec;
 }
 
 .bl-main > section:nth-child(3) {
@@ -190,7 +190,7 @@ a:hover {
 }
 
 .bl-icon-close:before {
-	content: "\e005";
+	content: "url(media/close.png)";
 }
 
 .bl-content, 
