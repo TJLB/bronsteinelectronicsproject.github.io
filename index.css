@@ -190,7 +190,7 @@ a:hover {
 }
 
 .bl-icon-close:before {
-	content: url(media/close.png);
+	content: url("media/close.png");
 }
 
 .bl-content, 
